@@ -12,3 +12,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notbluie/notbluie/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notbluie/notbluie/output/github-contribution-grid-snake.svg">
 </picture>
+
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=notbluie&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notbluie&layout=compact&theme=blueberry&count_private=true hide_border=true)</a>
