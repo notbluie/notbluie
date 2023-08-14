@@ -8,10 +8,10 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/801378854618398740) -->
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=notbluie&theme=transparent&count_private=true&hide_border=false&line_height=20" alt="Github stats" style="width: 300px; height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=notbluie&theme=transparent&count_private=true&hide_border=false&line_height=20" alt="Github stats" style="width: 400px; height: 200px;">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbluie&layout=compact&theme=transparent&count_private=true&hide_border=false" alt="Top Langs" style="width: 300px; height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbluie&layout=compact&theme=transparent&count_private=true&hide_border=false" alt="Top Langs" style="width: 400px; height: 200px;">
 </a>
 
 
