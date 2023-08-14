@@ -19,10 +19,10 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/801378854618398740) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats-seven-roan-45.vercel.app/api?username=notbluie" />
+  <img height=160 align="center" src="https://github-readme-stats-seven-roan-45.vercel.app/api?username=notbluie&theme=blueberry&count_private=true&hide_border=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats-seven-roan-45.vercel.app/api/top-langs?username=notbluie&layout=compact&langs_count=8&count_private=true&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats-seven-roan-45.vercel.app/api/top-langs?username=notbluie&layout=compact&langs_count=4&count_private=true&card_width=320&hide_border=false" />
 </a>
 
 
