@@ -1,5 +1,5 @@
 # Hello 👋,
-**I'm Bluie** - I love linux, cyber security and programming, but I disfavor windows.
+**I'm Bluie** - I love linux, cyber security and programming, and I disfavor windows.
 
 <h2> About Me </h2>
 
