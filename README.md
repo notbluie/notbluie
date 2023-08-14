@@ -12,6 +12,7 @@
 
 </br>
 
+
 [![SkillIcons](https://skillicons.dev/icons?i=py,lua,cs,dotnet,flask,aws,linux,bash,raspberrypi,git,github,vscode,unity,ableton,discord)](https://skillicons.dev)<br/>
 
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801378854618398740 simple=true)
