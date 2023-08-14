@@ -1,17 +1,14 @@
 # Hello 👋,
-**I'm Bluie (he/they)** - I'm a linux ricer and I love playing around with all settings and config files. I'm a self taught programmer (even tho a really bad one) and I just chill on discord and do stuff. Also, I use arch btw!
+**I'm Bluie** - I love linux, cyber security and programming, but I disfavor windows.
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Discord bot [Zupie](https://github.com/SnowyJaguar1034/Zupie) which is a feature packed discord bot which will have a web dashbaord.
-
-- 🌱 I’m currently learning Cyber Security as part of a CompTia Security+ course 
-
+- 👨🏽‍💻 I'm a Linux ricer and enthusiast, I like playing with configs.
+- 🌱 I'm learning Programming with YouTube and Cyber Security with HackTheBox academy, tryhackme and more.
 - 👯 I’m looking to collaborate on [ModMail](https://github.com/chamburr/modmail) and other projects. 
-
 - 💬 Talk to me about Python, Postgres SQL, Cyber Security, Computer Networking 
 
 [![SkillIcons](https://skillicons.dev/icons?i=cs,py,lua,bash,dotnet,flask,aws,linux,raspberrypi,git,github,vscode,unity,ableton,discord)](https://skillicons.dev)<br/>
