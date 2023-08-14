@@ -7,4 +7,6 @@
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/801378854618398740)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/801378854618398740) -->
 
-![snake gif](https://github.com/notbluie/notbluie/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/notbluie/notbluie/output/github-contribution-grid-snake.svg" />
+</p>
