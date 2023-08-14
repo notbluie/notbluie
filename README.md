@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=notbluie&theme=transparent&count_private=true&hide_border=false&line_height=20" alt="Github stats">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbluie&layout=compact&theme=transparent&count_private=true&hide_border=false&line_height=100" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbluie&layout=compact&theme=transparent&count_private=true&hide_border=false" alt="Top Langs">
 </a>
 
 
