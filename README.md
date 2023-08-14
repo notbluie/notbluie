@@ -21,9 +21,9 @@
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=notbluie&theme=transparent&count_private=true&hide_border=false&line_height=20&border_color=30363d" alt="Github stats">
 </a>
-<!--<a href="#">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbluie&layout=compact&theme=transparent&count_private=true&hide_border=false&border_color=30363d" alt="Top Langs ">
-</a> -->
+</a>
 
 
 <picture>
