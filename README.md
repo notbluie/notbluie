@@ -8,8 +8,7 @@
 
 - 👨🏽‍💻 I'm a Linux ricer and enthusiast, I like playing with configs.
 - 🌱 I'm learning Programming with YouTube and Cyber Security with HackTheBox academy, tryhackme and more.
-- 👯 I’m looking to collaborate on [ModMail](https://github.com/chamburr/modmail) and other projects. 
-- 💬 Talk to me about Python, Postgres SQL, Cyber Security, Computer Networking 
+- 💬 I'm also interested in Raspberry Pi, .NET, and all the other stuff you see below. 
 
 [![SkillIcons](https://skillicons.dev/icons?i=cs,py,lua,bash,dotnet,flask,aws,linux,raspberrypi,git,github,vscode,unity,ableton,discord)](https://skillicons.dev)<br/>
 
