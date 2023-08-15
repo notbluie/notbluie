@@ -1,34 +1,34 @@
-# Hey there, lovely human! 👋
+# Hello 👋,
+**I'm Bluie** - I love linux, cyber security and programming, and I disfavor windows.
 
-Welcome to my cozy corner of the digital universe! I go by the name Bluie (he/they pronouns), and I'm a passionate Linux enthusiast who finds pure joy in tinkering with all sorts of settings and config files. As a self-taught programmer (okay, maybe not the best, but I'm learning!), I find solace in my coding adventures while sipping on a cup of virtual tea. Oh, and just so you know, I proudly sail on the Arch Linux ship! 🐧💙
+<h2> About Me </h2>
 
-## A Glimpse of my Universe 🌌
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Feel free to gaze upon my collection of skills, like precious gems on a starry night:
 
-[![SkillIcons](https://skillicons.dev/icons?i=cs,py,lua,bash,dotnet,flask,aws,linux,raspberrypi,git,github,vscode,unity,ableton,discord)](https://skillicons.dev)
+- 👨🏽‍💻 I'm a Linux ricer and enthusiast, I like playing with configs.
+- 🌱 I'm learning Programming with YouTube and Cyber Security with HackTheBox academy, tryhackme and more.
+- 💬 I'm also interested in Raspberry Pi, .NET, and all the other stuff you see below. 
 
-## Stats and Galactic Highlights 🚀
+</br>
 
-Take a peek at my journey through the cosmic code:
 
-<div>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=notbluie&theme=transparent&count_private=true&hide_border=false&line_height=20" alt="Github stats">
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbluie&layout=compact&theme=transparent&count_private=true&hide_border=false" alt="Top Langs">
-  </a>
-</div>
+[![SkillIcons](https://skillicons.dev/icons?i=py,lua,cs,dotnet,flask,aws,linux,bash,raspberrypi,git,github,vscode,unity,ableton,discord)](https://skillicons.dev)<br/>
 
-## Traversing the Code Constellations 🐍🎨
+<!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801378854618398740 simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/801378854618398740)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/801378854618398740) -->
 
-Behold, my GitHub contribution grid snake animation, shifting colors like stars in the night sky:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats-seven-roan-45.vercel.app/api?username=notbluie&theme=transparent&count_private=true&hide_border=false&border_color=30363d" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=160 align="center" src="https://github-readme-stats-seven-roan-45.vercel.app/api/top-langs?username=notbluie&layout=compact&langs_count=4&count_private=true&card_width=320&hide_border=false&theme=transparent&border_color=30363d" />
+</a>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notbluie/notbluie/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notbluie/notbluie/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notbluie/notbluie/output/github-contribution-grid-snake.svg">
 </picture>
-
-So, make yourself at home in this celestial corner of mine. Feel free to drop by, explore, and share a virtual cup of cocoa with me as we navigate the boundless galaxies of code and creativity. 🌌🍵
