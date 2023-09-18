@@ -10,6 +10,11 @@
 - 🌱 I'm learning Programming with YouTube and Cyber Security with HackTheBox academy, tryhackme and more.
 - 💬 I'm also interested in Raspberry Pi, .NET, and all the other stuff you see below. 
 
+
+Next.js
+
+App and a Serverless Function API
+
 </br>
 
 
@@ -26,6 +31,8 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notbluie&layout=compact&langs_count=4&count_private=true&card_width=320&hide_border=false&theme=transparent&border_color=30363d" />
 </a>
 
+</br>
+</br>
 </br>
 
 <picture>
