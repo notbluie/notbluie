@@ -26,6 +26,7 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notbluie&layout=compact&langs_count=4&count_private=true&card_width=320&hide_border=false&theme=transparent&border_color=30363d" />
 </a>
 
+</br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notbluie/notbluie/output/github-contribution-grid-snake-dark.svg">
