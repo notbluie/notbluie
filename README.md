@@ -33,7 +33,6 @@ App and a Serverless Function API
 
 </br>
 </br>
-</br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notbluie/notbluie/output/github-contribution-grid-snake-dark.svg">
