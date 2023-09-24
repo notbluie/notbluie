@@ -25,10 +25,10 @@ App and a Serverless Function API
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/801378854618398740) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=notbluie&theme=transparent&count_private=true&hide_border=false&border_color=30363d" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=iambluie&theme=transparent&count_private=true&hide_border=false&border_color=30363d" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notbluie&layout=compact&langs_count=4&count_private=true&card_width=320&hide_border=false&theme=transparent&border_color=30363d" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iambluie&layout=compact&langs_count=4&count_private=true&card_width=320&hide_border=false&theme=transparent&border_color=30363d" />
 </a>
 
 </br>
