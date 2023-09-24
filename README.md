@@ -10,11 +10,6 @@
 - 🌱 I'm learning Programming with YouTube and Cyber Security with HackTheBox academy, tryhackme and more.
 - 💬 I'm also interested in Raspberry Pi, .NET, and all the other stuff you see below. 
 
-
-Next.js
-
-App and a Serverless Function API
-
 </br>
 
 
