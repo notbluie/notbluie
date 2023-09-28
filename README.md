@@ -1,7 +1,7 @@
 # Hello 👋,
 **I'm Bluie** - I love linux, cyber security and programming, and I disfavor windows.
 
-<h2> About Me </h2>
+## About me
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
