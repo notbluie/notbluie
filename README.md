@@ -27,7 +27,6 @@
 </a>
 
 </br>
-
 </br>
 
 <picture>
