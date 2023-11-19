@@ -7,7 +7,7 @@
 
 
 - 👨🏽‍💻 I'm a Linux ricer and enthusiast, I like playing with configs.
-- 🌱 I'm learning Programming with YouTube and Cyber Security with HackTheBox academy, tryhackme and more.
+- 🌱 I'm learning programming with YouTube and cybersecurity with HackTheBox, tryhackme and more.
 - 💬 I'm also interested in Raspberry Pi, cloud engeneering, and all the other stuff you see below. 
 
 </br>
