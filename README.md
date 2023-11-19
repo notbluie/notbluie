@@ -1,5 +1,5 @@
 # Hello 👋,
-**I'm Bluie** - I love linux, cyber security and programming.
+**I'm Bluie** - I love linux, cybersecurity and programming.
 
 ## About me
 
