@@ -6,8 +6,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 👨🏽‍💻 I'm a Linux ricer and enthusiast, I like playing with configs.
-- 🌱 I'm learning programming with YouTube and cybersecurity with HackTheBox, tryhackme and more.
+- 👨🏽‍💻 I'm a Linux ricer and enthusiast, playing with configs etc.
+- 🌱 I'm really interested in cybersecurity.
 - 💬 I'm also interested in Raspberry Pi, cloud engeneering, and all the other stuff you see below. 
 
 </br>
