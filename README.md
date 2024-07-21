@@ -2,7 +2,7 @@
 
 ## /interests.txt
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+[![SkillIcons](https://skillicons.dev/icons?i=,rust,tauri,py,,linux,bash,aws,gcp,raspberrypi,github,git,vscode,unity,ableton,blender)](https://skillicons.dev)<br/>
 
 
 - Linux / Cloud engeneering
