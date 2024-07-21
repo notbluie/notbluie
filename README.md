@@ -1,4 +1,4 @@
-# /me.exe,
+# /me.exe
 
 ## /interests.txt
 
