@@ -6,7 +6,6 @@
 - Self hosting / FOSS
 - All the stuff below 
 
-</br>
 
 
 [![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,vercel,rust,py,vscode,aws,gcp,git,github,ableton,unity)](https://skillicons.dev)<br/>
