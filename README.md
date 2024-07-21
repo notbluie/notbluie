@@ -13,6 +13,8 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,vercel,rust,py,vscode,aws,gcp,git,github,ableton,unity)](https://skillicons.dev)<br/>
 
+</br>
+##/stats.jpg
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801378854618398740 simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/801378854618398740)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/801378854618398740) -->
