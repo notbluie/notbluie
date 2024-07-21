@@ -1,19 +1,19 @@
-# Hello 👋,
-**I'm Bluie** - I love linux, cybersecurity and much more.
+# /me.exe,
 
-## About me
+## /interests.txt
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 👨🏽‍💻 I'm a Linux ricer and enthusiast, playing with configs etc.
-- 🌱 I'm really interested in cybersecurity.
-- 💬 I'm also interested in Raspberry Pi, cloud engeneering, and all the other stuff you see below. 
+- Linux / Cloud engeneering
+- Cybersec / Com
+- Self hosting / FOSS
+- All the stuff below 
 
 </br>
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=py,rust,tauri,wasm,linux,bash,aws,gcp,raspberrypi,github,git,vscode,unity,ableton,blender)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=,rust,tauri,wasm,py,linux,bash,aws,gcp,raspberrypi,github,git,vscode,unity,ableton,blender)](https://skillicons.dev)<br/>
 
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801378854618398740 simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/801378854618398740)
