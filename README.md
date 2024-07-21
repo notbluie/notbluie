@@ -1,7 +1,5 @@
 # /me.exe
 
-## /interests.txt
-
 
 - Linux / Cloud engeneering
 - Cybersec / Com
