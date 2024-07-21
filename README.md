@@ -11,7 +11,7 @@
 </br>
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,vercel,rust,vscode,aws,gcp,git,github,ableton,unity,blender)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,vercel,rust,py,vscode,aws,gcp,git,github,ableton,unity)](https://skillicons.dev)<br/>
 
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801378854618398740 simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/801378854618398740)
