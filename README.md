@@ -2,8 +2,6 @@
 
 ## /interests.txt
 
-[![SkillIcons](https://skillicons.dev/icons?i=,rust,tauri,py,,linux,bash,aws,gcp,raspberrypi,github,git,vscode,unity,ableton,blender)](https://skillicons.dev)<br/>
-
 
 - Linux / Cloud engeneering
 - Cybersec / Com
@@ -13,7 +11,7 @@
 </br>
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=,rust,tauri,py,,linux,bash,aws,gcp,raspberrypi,github,git,vscode,unity,ableton,blender)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=rust,tauri,py,linux,bash,aws,gcp,raspberrypi,github,git,vscode,unity,ableton,blender)](https://skillicons.dev)<br/>
 
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/801378854618398740 simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/801378854618398740)
