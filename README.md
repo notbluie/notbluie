@@ -2,8 +2,8 @@
 
 ## /interests.txt
 - Linux / Cloud engeneering 
-- Cybersec / Com [![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,vercel,rust,py,vscode,aws,gcp,git,github,ableton,unity)](https://skillicons.dev)
-- Self hosting / FOSS
+- Cybersec / Com 
+- Self hosting / FOSS        [![SkillIcons](https://skillicons.dev/icons?i=linux,arch,bash,raspberrypi,vercel,rust,py,vscode,aws,gcp,git,github,ableton,unity)](https://skillicons.dev)
 - All the stuff below 
 
 </br>
